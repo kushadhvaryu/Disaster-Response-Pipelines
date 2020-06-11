@@ -87,7 +87,7 @@ Using a standard desktop/laptop (4 CPUs, RAM 8Gb or above) it may take several h
 <a name="screenshots"></a>
 ## Screenshots
 
-1. This is an example of a message you can type to test Machine Learning model performance
+1. This is an example of features in which the messages will be categorised into when you type to test Machine Learning model performance
 
 ![Sample Input](screenshots/3.jpg)
 
