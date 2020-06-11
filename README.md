@@ -10,9 +10,8 @@
 	3. [Executing Program](#executing)
 	4. [Additional Material](#material)
 3. [Authors](#authors)
-4. [License](#license)
-5. [Acknowledgement](#acknowledgement)
-6. [Screenshots](#screenshots)
+4. [License and Acknowledgement](#license)
+5. [Screenshots](#screenshots)
 
 <a name="descripton"></a>
 ## Description
@@ -75,11 +74,7 @@ Using a standard desktop/laptop (4 CPUs, RAM 8Gb or above) it may take several h
 * [Kush Adhvaryu](https://github.com/kushadhvaryu)
 
 <a name="license"></a>
-## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-<a name="acknowledgement"></a>
-## Acknowledgements
+## License and Acknowledgements
 
 * [Udacity](https://www.udacity.com/) for providing such a complete Data Science Nanodegree Program
 * [Figure Eight](https://www.figure-eight.com/) for providing messages dataset to train my model
