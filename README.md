@@ -85,5 +85,3 @@ Using a standard desktop/laptop (4 CPUs, RAM 8Gb or above) it may take several h
 3. The main page shows some graphs about training dataset, provided by Figure Eight.
 
 ![Main Page](screenshots/2.jpg)
-
-[![HitCount](http://hits.dwyl.com/kushadhvaryu/Disaster-Response-Pipelines.svg)](http://hits.dwyl.com/kushadhvaryu/Disaster-Response-Pipelines)
